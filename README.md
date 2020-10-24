@@ -12,9 +12,9 @@ I am excited about technology especially using data to build awesome things that
   <dt>🔭 Web and Mobile Applications</dt>
   <dd>I built a wide range of applications from a car ride sharing mobile application to a web university application portal. Some of the applications also came with a well-built relational database to store and retrieve data from.</dd>
   <dt>🌱 Machine Learning and Big Data.</dt>
-  <dd>I am fascinated with how data can be used for more than just storage and retrieval but also to make predictions and many other amazing things. Also the more data you have, the better. My projects in this category include predicting whether a pet would get adopted from a pet shelter or not and a website that predicts whether a meal is healthy for people with heart diseases.</dd>
+  <dd>I am fascinated with how data can be used for more than just storage and retrieval but to make predictions and many other amazing things. Also the more data you have, the better. My projects in this category include predicting whether a pet would get adopted from a pet shelter or not and a website that predicts whether a meal is healthy for people with heart diseases.</dd>
   <dt>👯 Data Visualizaton</dt>
-  <dd>My interest in data visualization grew and I worked with a few data visualization tools to see how best my work could be translated. Check out some of the dashboards I built using Tableau and PowerBI.</dd>
+  <dd>I worked with a few data visualization tools to see how best my insights could be communicated to an audience. Check out some of the dashboards I built using Tableau and PowerBI.</dd>
 </dl>
 <hr>
 
