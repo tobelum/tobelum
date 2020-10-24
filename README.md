@@ -23,6 +23,8 @@ I am excited about technology especially using data to build awesome things that
 <img src="https://github.com/tobelum/tobelum/blob/main/tech_skills.png" width="400" height="250">
 
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-JupyterNotebooks-informational?style=flat&logo=jupyternotebook&logoColor=white&color=2bbc8a)
 <!--
 **tobelum/tobelum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
