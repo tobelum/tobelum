@@ -18,6 +18,9 @@ I am excited about technology especially using data to build awesome things that
 </dl>
 <hr>
 
+### Technical Skills and Tools
+
+https://github.com/tobelum/tobelum/blob/main/tech_skills.png
 
 <!--
 **tobelum/tobelum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
