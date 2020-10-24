@@ -10,11 +10,11 @@ I am excited about technology especially using data to build awesome things that
 ### Stuff I've worked on!
 <dl>
   <dt>🔭 Web and Mobile Applications</dt>
-  <dd>This was when I first got into coding. I built a wide range of applications from a car ride sharing mobile application to a web university application portal. Some of the applications also came with a well-built relational database to store and retrieve data from. You can find them in my repositories</dd>
+  <dd>I built a wide range of applications from a car ride sharing mobile application to a web university application portal. Some of the applications also came with a well-built relational database to store and retrieve data from.</dd>
   <dt>🌱 Machine Learning and Big Data.</dt>
-  <dd>During my grad program, I became really fascinated with how data can be used for more than just storage and retrieval but also to make predictions and many other amazing things. Also the more data you have, the better. My projects in this category include predicting whether a pet would get adopted from a pet shelter or not and a website that predicts whether a meal is healthy for people with heart diseases.</dd>
+  <dd>I am fascinated with how data can be used for more than just storage and retrieval but also to make predictions and many other amazing things. Also the more data you have, the better. My projects in this category include predicting whether a pet would get adopted from a pet shelter or not and a website that predicts whether a meal is healthy for people with heart diseases.</dd>
   <dt>👯 Data Visualizaton</dt>
-  <dd>As I grew more in my technical skills, I also realized the importance of communicating your insights/results to your audience regardless of their background. Therefore, my interest in data visualization grew and I worked with a few data visualization tools to see how best my work could be translated. Check out some of the dashboards I built.</dd>
+  <dd>My interest in data visualization grew and I worked with a few data visualization tools to see how best my work could be translated. Check out some of the dashboards I built using Tableau and PowerBI.</dd>
 </dl>
 <hr>
 
@@ -22,6 +22,7 @@ I am excited about technology especially using data to build awesome things that
 
 <img src="https://github.com/tobelum/tobelum/blob/main/tech_skills.png" width="400" height="250">
 
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 <!--
 **tobelum/tobelum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
